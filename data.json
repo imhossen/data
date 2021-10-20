@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Cardiology",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+    "image": "https://i.ibb.co/zh8GHPr/cardiology.png"
+  },
+  {
+    "id": 2,
+    "title": "Orthopedics",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+    "image": "https://i.ibb.co/9WWvtkD/orthopedics.png"
+  },
+  {
+    "id": 3,
+    "title": "Pulmonology",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+    "image": "https://i.ibb.co/DfTVXjF/pulmonology.png"
+  },
+  {
+    "id": 4,
+    "title": "Dental Care",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+    "image": "https://i.ibb.co/Ct6dMHK/dental-care.png"
+  },
+  {
+    "id": 5,
+    "title": "Medicine",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+    "image": "https://i.ibb.co/VDVXXtD/medicine.png"
+  },
+  {
+    "id": 6,
+    "title": "Ambulance",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+    "image": "https://i.ibb.co/hBnKyD9/ambulance.png"
+  },
+  {
+    "id": 7,
+    "title": "Ophthalmology",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+    "image": "https://i.ibb.co/bQjxJK8/ophthalmology.png"
+  },
+  {
+    "id": 8,
+    "title": "Neurology",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+    "image": "https://i.ibb.co/M5dNk44/neurology.png"
+  }
+]
